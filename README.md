@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @niket3342
+- 👋 Hi, I’m Niket, a sophomore Computer Science Engineering Student.
 - 👀 I’m interested in learning web development and constantly improving my programming skills. 
-- 🌱 I’m currently learning javascript and web development.
+- 🌱 I’m currently learning javascript/web development and practising Data Structure and Algorithms.
 - 💞️ I’m looking to collaborate on some interesting and innovative projects.
 - 📫 You can follow me or connect with me on linkedin too.
 
